@@ -1,0 +1,16 @@
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\bin\Debug\net7.0-windows\simple calcul.exe
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\bin\Debug\net7.0-windows\simple calcul.deps.json
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\bin\Debug\net7.0-windows\simple calcul.runtimeconfig.json
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\bin\Debug\net7.0-windows\simple calcul.dll
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\bin\Debug\net7.0-windows\simple calcul.pdb
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple_calcul.Form1.resources
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.csproj.GenerateResource.cache
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.AssemblyInfoInputs.cache
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.AssemblyInfo.cs
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.csproj.CoreCompileInputs.cache
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.dll
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\refint\simple calcul.dll
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.pdb
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\simple calcul.genruntimeconfig.cache
+C:\Users\Duevano\source\repos\simple calcul\simple calcul\obj\Debug\net7.0-windows\ref\simple calcul.dll
